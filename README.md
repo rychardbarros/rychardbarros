@@ -3,7 +3,7 @@
 
 - 🔭 Front-end Developer
 - 🌱 Studying: HTML | CSS | JS
-- 👯 Tec. Computer Networking
+- 🖥 Tec. Computer Networking
 
 <div align="center">
   <a href="https://github.com/rychardbarros">
