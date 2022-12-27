@@ -5,6 +5,9 @@
 - 🌱 Studying: HTML | CSS | JS
 - 🖥 Tec. Computer Networking
 
+![bannertwo](https://user-images.githubusercontent.com/106812762/209670359-c19c57ab-0e0d-49d0-96b6-e2e352d17734.png)
+
+
 <div align="center">
   <a href="https://github.com/rychardbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,6 +25,6 @@
   <a href="https://www.instagram.com/_rychardx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rychard.barros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rychard-barros-3846431b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
+ 
   </div> 
   
