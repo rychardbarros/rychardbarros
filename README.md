@@ -7,7 +7,6 @@
 
 ![bannertwo](https://user-images.githubusercontent.com/106812762/209670359-c19c57ab-0e0d-49d0-96b6-e2e352d17734.png)
 
-
 <div align="center">
   <a href="https://github.com/rychardbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
