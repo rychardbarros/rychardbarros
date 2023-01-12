@@ -1,6 +1,5 @@
 ## Hello, my name is Rychard, I'm 19 years old and I'm a development student.👋
 
-
 - 🔭 Front-end Developer
 - 🌱 Studying: HTML | CSS | JS
 - 🖥 Tec. Computer Networking
