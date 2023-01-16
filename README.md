@@ -12,6 +12,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RychardBarros&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="center"><br>
+    <h1>Tecnologies</h1>
   <img align="center" alt="Rych-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rych-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rych-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
