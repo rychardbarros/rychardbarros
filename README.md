@@ -1,4 +1,4 @@
-## Hello, my name is Rychard, I'm 19 years old and I'm a development student.👋
+## Hello, my name is Rychard Barros, I'm 19 years old and I'm a development student.👋
 
 - 🔭 Front-end Developer
 - 📚 Studying: HTML5 | CSS3 | JavaScript
