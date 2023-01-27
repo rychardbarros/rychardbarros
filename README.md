@@ -1,6 +1,5 @@
 ## Hello, my name is Rychard Barros, I'm 19 years old and I'm a development student.👋
 
-- 🔭 Front-end Developer
 - 📚 Studying: JavaScript | Python
 - ⚡ Tec. Computer Networking
 
