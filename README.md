@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://github.com/rychardbarros">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RychardBarros&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="left">
     <h1>⚛️ Tecnologies:
