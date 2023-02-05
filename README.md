@@ -10,26 +10,26 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   <div align="left">
-    <h1>⚛️ Tecnologies:
+    <h3>⚛️ Tecnologies:
     <img align="center" alt="Rych-HTML" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
     <img align="center" alt="Rych-CSS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Rych-Js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Rych-python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    </h1>
+    </h3>
  </div>
   <div align="left">
-    <h1>⚙️ Tools:
+    <h3>⚙️ Tools:
   <img align="center" alt="Rych-Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rych-GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Rych-vs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    </h1>
+    </h3>
   </div>
   
   
 <div align="left">
-    <h1>📱 Contacts:
+    <h3>📱 Contacts:
 <a href="https://www.instagram.com/_rychardx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rychard.barros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rychard-barros-3846431b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </h1>
+  </h3>
 </div>
