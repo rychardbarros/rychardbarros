@@ -28,8 +28,8 @@
   
 <div align="left">
     <h3>📱 Contacts:
-<a href="https://www.instagram.com/_rychardx_/" target="_blank"><img width="9%" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "mailto:rychard.barros.dev@gmail.com"><img width="7%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rychard-barros-3846431b7/" target="_blank"><img width="8%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/_rychardx_/" target="_blank"><img width="12%" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href = "mailto:rychard.barros.dev@gmail.com"><img width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rychard-barros-3846431b7/" target="_blank"><img width="12%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </h3>
 </div>
