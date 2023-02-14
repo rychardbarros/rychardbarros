@@ -1,9 +1,10 @@
+![bannertwo](https://user-images.githubusercontent.com/106812762/209670359-c19c57ab-0e0d-49d0-96b6-e2e352d17734.png)
 ## Hello, my name is Rychard Barros, I'm 19 years old and I'm a development student.👋
 
 - 📚 Studying: Python | JavaScript
 - ⚡ Tec. Computer Networking
 
-![bannertwo](https://user-images.githubusercontent.com/106812762/209670359-c19c57ab-0e0d-49d0-96b6-e2e352d17734.png)
+
 
 <div align="center">
   <a href="https://github.com/rychardbarros">
