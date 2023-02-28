@@ -16,6 +16,7 @@
     <img align="center" alt="Rych-CSS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Rych-Js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Rych-python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Rych-Dj" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
     </h3>
  </div>
   <div align="left">
