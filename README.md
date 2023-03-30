@@ -6,6 +6,7 @@ I am a 19-year-old software developer from Fortaleza, Brazil. In 2018, I was int
 
 - 📚 Studying: Python | Django
 - ⚡ Tec. Computer Networking
+- 🖥️ Faculty of IT Management
 
 
 
