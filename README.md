@@ -4,7 +4,7 @@
 I am a 19-year-old software developer from Fortaleza, Brazil. In 2018, I was introduced to the world of development while studying in school and completing my technical degree in Computer Networking. Since then, I have been an avid admirer of technology and innovation, constantly seeking to learn and improve my skills as a developer. I am excited to contribute to open source projects and work on interesting development challenges.
 
 
-- 📚 Studying: Python | Django
+- 💼 Software Developer Apprentice at Maresia
 - ⚡ Tec. Computer Networking
 - 🖥️ Faculty of IT Management
 
