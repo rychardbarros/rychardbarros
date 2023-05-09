@@ -15,7 +15,7 @@ I am a 19-year-old software developer from Fortaleza, Brazil. In 2018, I was int
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   <div align="left">
-    <h3>⚛️ Tecnologies:
+    <h3>⚛️ Technology:
     <img align="center" alt="Rych-HTML" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
     <img align="center" alt="Rych-CSS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Rych-Js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
