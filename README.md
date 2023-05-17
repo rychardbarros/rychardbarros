@@ -21,7 +21,7 @@ I am a 19-year-old software developer from Fortaleza, Brazil. In 2018, I was int
     <img align="center" alt="Rych-Js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Rych-python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Rych-Dj" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" alt="Rych-pd" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+    <img align="center" alt="Rych-pd" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
     </h3>
  </div>
   <div align="left">
