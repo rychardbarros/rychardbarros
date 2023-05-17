@@ -22,8 +22,15 @@ I am a 19-year-old software developer from Fortaleza, Brazil. In 2018, I was int
     <img align="center" alt="Rych-python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Rych-Dj" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" alt="Rych-pd" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-    </h3>
+    <img align="center" alt="Rych-bootstrap" height="38" width="38"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Rych-bulma" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+</h3>
  </div>
+  <div align="left">
+    <h3>🎲 Database:
+      <img align="center" alt="Rych-oracle" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+    </h3>
+  </div>
   <div align="left">
     <h3>⚙️ Tools:
   <img align="center" alt="Rych-Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
