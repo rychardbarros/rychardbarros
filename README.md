@@ -4,7 +4,7 @@
 I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was introduced to the world of development while studying in school and completing my technical degree in Computer Networking. Since then, I have been an avid admirer of technology and innovation, constantly seeking to learn and improve my skills as a developer. I am excited to contribute to open source projects and work on interesting development challenges.
 
 
-- 💼 Software Developer Apprentice at Maresia
+- 💼 Developer Full-Stack Apprentice at Maresia
 - ⚡ Tec. Computer Networking
 - 🖥️ Faculty of IT Management
 
@@ -26,24 +26,3 @@ I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was int
     <img align="center" alt="Rych-bulma" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
 </h3>
  </div>
-  <div align="left">
-    <h3>🎲 Database:
-      <img align="center" alt="Rych-oracle" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-    </h3>
-  </div>
-  <div align="left">
-    <h3>⚙️ Tools:
-  <img align="center" alt="Rych-Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rych-GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Rych-vs" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    </h3>
-  </div>
-  
-  
-<div align="left">
-    <h3>📱 Contacts:
-<a href="https://www.instagram.com/_rychardx_/" target="_blank"><img width="12%" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "mailto:rychard.barros.dev@gmail.com"><img width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rychard-barros-3846431b7/" target="_blank"><img width="12%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </h3>
-</div>
