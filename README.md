@@ -8,14 +8,8 @@ I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was int
 - ⚡ Tec. Computer Networking
 - 🖥️ Faculty of IT Management
 
-
-
-<div align="center">
-  <a href="https://github.com/rychardbarros">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=RychardBarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-  <div align="left">
-    <h3>⚛️ Technology:
+<div align="left">
+  <h3>⚛️ Technology:
     <img align="center" alt="Rych-HTML" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
     <img align="center" alt="Rych-CSS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Rych-Js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -24,5 +18,5 @@ I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was int
     <img align="center" alt="Rych-pd" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
     <img align="center" alt="Rych-bootstrap" height="38" width="38"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Rych-bulma" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
-</h3>
- </div>
+  </h3>
+</div>
