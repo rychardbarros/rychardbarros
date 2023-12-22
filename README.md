@@ -12,8 +12,8 @@ I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was int
   <h3>⚛️ Technology:</h3>
   
   - HTML, CSS, BootStrap, Bulma CSS
-  - JavaScript, Python, RestAPIS
-  - Django, Flask, Django-Rest, Pandas
-  - GIT, SQL, Streamlit
+  - JavaScript, TypeScript, Node.js
+  - Python, Django, Flask, Django-Rest, RestAPIS
+  - GIT, SQL, Streamlit, Pandas
   
 </div>
