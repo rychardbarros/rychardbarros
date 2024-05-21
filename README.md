@@ -6,14 +6,15 @@ I am a 20-year-old software developer from Fortaleza, Brazil. In 2018, I was int
 
 - 💼 Developer Full-Stack Apprentice at Maresia
 - ⚡ Tec. Computer Networking
-- 🖥️ Faculty of IT Management
+- 🖥️ Analysis and systems development
 
 <div align="left">
   <h3>⚛️ Technology:</h3>
   
+  - C#, .Net Core, ASP.Net, SQL-Server
   - HTML, CSS, BootStrap, Bulma CSS
   - JavaScript, TypeScript, Node.js, React
   - Python, Django, Flask, Django-Rest, RestAPIS
-  - GIT, SQL, Streamlit, Pandas
+  - GIT, SVN, Streamlit, Pandas
   
 </div>
